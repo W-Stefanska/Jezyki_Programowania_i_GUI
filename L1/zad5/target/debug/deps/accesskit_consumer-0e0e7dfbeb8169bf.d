@@ -1,0 +1,10 @@
+D:\College\JpGUI\zad5\target\debug\deps\libaccesskit_consumer-0e0e7dfbeb8169bf.rmeta: C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\lib.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\tree.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\node.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\filters.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\iterators.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\text.rs
+
+D:\College\JpGUI\zad5\target\debug\deps\accesskit_consumer-0e0e7dfbeb8169bf.d: C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\lib.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\tree.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\node.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\filters.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\iterators.rs C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\text.rs
+
+C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\lib.rs:
+C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\tree.rs:
+C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\node.rs:
+C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\filters.rs:
+C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\iterators.rs:
+C:\Users\nika0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.26.0\src\text.rs:
